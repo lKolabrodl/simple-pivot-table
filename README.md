@@ -39,5 +39,6 @@ screen/* .png   | Скриншоты превью
 
 <br>
 <br>
-![Alt text]()
-![Alt text]()
+
+![Alt text](https://raw.githubusercontent.com/lKolabrodl/simple-pivot-table/master/screen/pivot1.png)
+![Alt text](https://raw.githubusercontent.com/lKolabrodl/simple-pivot-table/master/screen/pivot2.png)
